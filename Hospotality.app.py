@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-
 # Mock data generator (replaces real API)
 class MockBookingAPI:
     def __init__(self):
